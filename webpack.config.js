@@ -25,6 +25,6 @@ module.exports = {
     }),
   ],
   devServer: {
-    contentBase: '/game-2048/',
+    contentBase: './build',
   },
 };
